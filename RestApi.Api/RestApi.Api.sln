@@ -24,7 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRest.Domain", "..\ApiRest.Domain\ApiRest.Domain.csproj", "{BF1183F9-4FC7-4240-98D9-46C62840D0E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi.Domain", "..\ApiRest.Domain\RestApi.Domain.csproj", "{BF1183F9-4FC7-4240-98D9-46C62840D0E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
